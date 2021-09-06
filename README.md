@@ -6,7 +6,7 @@
 </h4>
 
 ### Sobre mim
-- 👋 Meu nome é Gilberto Toledo, tenho 26 anos e trabalho com TI desde 2009.
+- 👋 Meu nome é Gilberto Toledo, tenho 27 anos e trabalho com TI desde 2009.
 -  📍 Sou de Guarani, Minas Gerais, Brasil.
 - 💼 Atualmente sou Engenheiro de Software Senior (Backend), atuando majoritariamente com C# e .Net Core.
 
