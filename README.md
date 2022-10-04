@@ -15,7 +15,7 @@
 
 ### Estatísticas gerais 
  
-[![Gilberto github stats](https://github-readme-stats.vercel.app/api?username=gilbertotoledo&theme=cobalt&show_icons=true)](https://github.com/Erickson-lopes-dev/github-readme-stats)
+[![Gilberto github stats](https://github-readme-stats.vercel.app/api?username=gilbertotoledo&theme=cobalt&show_icons=true)](https://github.com/gilbertotoledo)
 
 ### Linguagens mais usadas 
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gilbertotoledo&hide=scss&layout=compact&theme=dracula&border_radius=10)
